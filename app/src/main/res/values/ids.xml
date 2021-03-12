@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_rewardedAd" type="id"/>
+    <item name="button_no" type="id"/>
+    <item name="textView_reward" type="id"/>
+    <item name="button_incubate" type="id"/>
+    <item name="button_cancel" type="id"/>
+    <item name="button_giveup" type="id"/>
+    <item name="seekBar_timerValue" type="id"/>
+    <item name="textView_countdown" type="id"/>
+    <item name="textView_userCoins" type="id"/>
+    <item name="button_shop" type="id"/>
+    <item name="button_tempCoinAdder" type="id"/>
+    <item name="btnEggPicker" type="id"/>
+    <item name="coinsText" type="id"/>
+    <item name="OutcomeText" type="id"/>
+    <item name="btnFireEgg" type="id"/>
+    <item name="btnWaterEgg" type="id"/>
+</resources>

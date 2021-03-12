@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Hatchlings</string>
+    <string name="rewarded_ad">rewardedAd</string>
+    <string name="no">noRewaredAd</string>
+    <string name="incubate">Incubate</string>
+    <string name="cancel">cancel</string>
+    <string name="give_up">give up</string>
+    <string name="do_you_want_to_double_your_coins">watch an ad to double your coins</string>
+    <string name="textview">time</string>
+    <string name="coins">coins</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="fire_egg">fire egg</string>
+    <string name="water_egg">water egg</string>
+    <string name="earth_egg">earth egg</string>
+    <string name="lightning_egg">lightning egg</string>
+    <string name="wind_egg">wind egg</string>
+    <string name="light_egg">light egg</string>
+    <string name="plasma_egg">plasma egg</string>
+    <string name="shadow_egg">shadow egg</string>
+    <string name="egg_shop">Egg shop</string>
+</resources>
